@@ -53,6 +53,9 @@ You can view the live demo using the link above.
 
 ---
 
+## License
+This project is licensed under the MIT License – free to use for learning and educational purposes.
+
 ## ✨ Author
 **Meenakshi Ganesh**  
 Aspiring Software Engineer | Learning Web Development 🚀
